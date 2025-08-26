@@ -19,6 +19,7 @@ const Home = () => {
 
 const styles = StyleSheet.create({
   container: {
+    backgroundColor: '#E2DFD2',
     flex: 1,
     alignItems: 'center'
   },
@@ -29,7 +30,7 @@ const styles = StyleSheet.create({
   link: {
     marginVertical: 20,
     padding: 16,
-    backgroundColor: '#21cc8d',
+    backgroundColor: '#9e6a90',
     color: 'white',
     borderRadius: 8,
   },

@@ -14,6 +14,7 @@ export default Goals
 
 const styles = StyleSheet.create({
   container: {
+    backgroundColor: '#E2DFD2',
     flex: 1,
     paddingTop: 30,
   },
